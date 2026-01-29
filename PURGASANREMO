@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Apri il modulo</title>
+
+  <!-- Open Graph per anteprima -->
+  <meta property="og:title" content="Titolo del modulo">
+  <meta property="og:description" content="Breve descrizione del modulo">
+  <meta property="og:image" content="https://ibb.co/Wvw1txrS">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://USERNAME.github.io/REPO/">
+
+  <!-- Meta per Twitter (opzionale) -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Titolo del modulo">
+  <meta name="twitter:description" content="FANTASANREMO PURGATORIO">
+  <meta name="twitter:image" content="https://YOUR_IMAGE_URL">
+
+  <!-- Redirect immediato al JotForm -->
+  <meta http-equiv="refresh" content="0;url=https://form.jotform.com/ilpazzo8/purgasanremo">
+</head>
+<body>
+  <p>Reindirizzamento in corso... Se non funziona, clicca <a href="https://YOUR_JOTFORM_URL">qui</a> per aprire il modulo.</p>
+</body>
+</html>
